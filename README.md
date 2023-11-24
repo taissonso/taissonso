@@ -1,7 +1,7 @@
 # Olá, me chamo Taisson.
 ### Bom dia/Boa Tarde/Boa Noite!
 
-Sou de Pinheiro Machado/RS, cidade da ovelha. Formado em Análise e Desenvolvimento de Sistemas pela UNINTER, atuando como Tech Lead de Front-End e Dev Front-End na https://brave.ag/. Desafios são o que me movem na área da Tecnologia, apaixonado por games, futebol, chimarrão e café.
+Sou de Pinheiro Machado/RS, cidade da ovelha. Formado em Análise e Desenvolvimento de Sistemas pela UNINTER, atuando como Dev Front-End na https://brave.ag/. Desafios são o que me movem na área da Tecnologia, apaixonado por games, futebol, chimarrão e café.
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=taissonso&show_icons=true&theme=dark#gh-dark-mode-only" />
 
